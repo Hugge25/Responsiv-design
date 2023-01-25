@@ -1,0 +1,11 @@
+body{
+    background-color: cyan;
+}
+
+.circle{
+    height: 50vw;
+    width: 50vw;
+    background-color: yellow;
+    border-radius: 50%;
+    margin: auto;
+}
